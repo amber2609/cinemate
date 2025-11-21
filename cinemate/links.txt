@@ -1,0 +1,28 @@
+API Key: 79270474f35924c30bfbc3b975b203fd
+
+Base URL: https://api.themoviedb.org/3
+
+API Key: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3OTI3MDQ3NGYzNTkyNGMzMGJmYmMzYjk3NWIyMDNmZCIsIm5iZiI6MTc2MzY0OTQyOS4zMTMsInN1YiI6IjY5MWYyNzk1Yjg2MDcxMGFkOGZhMmIyMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gG56YfL8Qna44zh9MN7JHI0GVRE9jm4mOMlPAn9qvjo
+
+Individual:
+https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=en-US&page=1&sort_by=popularity.desc
+
+Now Playing:
+https://api.themoviedb.org/3/movie/now_playing?language=en-US&page=1
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?language=en-US&page=1
+
+Top Rated:
+https://api.themoviedb.org/3/movie/top_rated?language=en-US&page=1
+
+Upcoming:
+https://api.themoviedb.org/3/movie/upcoming?language=en-US&page=1
+
+Search:
+https://api.themoviedb.org/3/movie/upcoming?language=en-US&page=1&movie_name
+
+Authorization:'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3OTI3MDQ3NGYzNTkyNGMzMGJmYmMzYjk3NWIyMDNmZCIsIm5iZiI6MTc2MzY0OTQyOS4zMTMsInN1YiI6IjY5MWYyNzk1Yjg2MDcxMGFkOGZhMmIyMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gG56YfL8Qna44zh9MN7JHI0GVRE9jm4mOMlPAn9qvjo
+accept:application/json
+
+https://api.themoviedb.org/3/trending/movie/day?language=en-US
